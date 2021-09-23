@@ -1,0 +1,57 @@
+
+body{
+    background-color:black;
+}
+
+#title{
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption{
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+}
+#tribute-info{
+    font-family: "Audiowide", sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.paragraph{
+    padding: 3vh 3vw;
+    padding-bottom: 5vh;
+    font-family: 'Overpass', sans-serif;
+}
+
+.quote{
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: 100px;
+}
+
+blockquote, figcaption{
+    color: black;
+}
+
+figcaption{
+    margin-left: 80%;
+}
+#tribute-link{
+    text-align: center;
+    display: block;
+    color: lawngreen;
+    font-size: 20px;
+    
+}
