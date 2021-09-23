@@ -38,7 +38,7 @@ body{
     border-radius: 25px;
     padding: 20px;
     width: auto;
-    height: 100px;
+    height: auto;
 }
 
 blockquote, figcaption{
