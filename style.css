@@ -10,6 +10,11 @@ body{
     font-size: 50px;
 }
 
+.title{
+    color:green;
+    font-size: 125%;
+}
+
 #image{
     max-width: 100%;
     height: auto;
@@ -21,6 +26,11 @@ body{
     color: aliceblue;
     font-size: 30px;
 }
+
+#type{
+    color: green;
+}
+
 #tribute-info{
     font-family: "Audiowide", sans-serif;
     color: aliceblue;
